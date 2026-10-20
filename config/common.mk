@@ -280,7 +280,7 @@ endif
 # SetupWizard
 ifeq ($(LINEAGE_BUILD),true)
 PRODUCT_PRODUCT_PROPERTIES += \
-    setupwizard.theme=glif_v4 \
+    setupwizard.theme=glif_expressive \
     setupwizard.feature.day_night_mode_enabled=true
 endif
 
